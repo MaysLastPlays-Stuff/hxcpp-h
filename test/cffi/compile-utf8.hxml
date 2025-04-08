@@ -1,0 +1,5 @@
+-p src
+-m TestMain
+-L utest
+-D disable_unicode_strings
+--cpp bin/cpp-utf8

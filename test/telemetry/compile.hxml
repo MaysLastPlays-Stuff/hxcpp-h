@@ -1,0 +1,6 @@
+-m TestMain
+-r TestMain.hx
+-D HXCPP_TELEMETRY
+-D HXCPP_STACK_TRACE
+-L utest
+--cpp bin
