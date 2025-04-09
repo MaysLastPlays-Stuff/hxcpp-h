@@ -1,5 +1,4 @@
 name: setup
-on: workflow_dispatch
 inputs:
   haxe:
     required: true
